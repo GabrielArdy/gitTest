@@ -6,4 +6,4 @@ this repo for commit demo
 
 - [@GabrielArdy](https://github.com/GabrielArdy)
 
-- [@MisterX] (https://instagram.com/)
+- [@MisterX](https://instagram.com/)
